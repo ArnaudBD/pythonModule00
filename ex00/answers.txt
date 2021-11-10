@@ -1,0 +1,4 @@
+list
+list
+pip show numpy
+pip search tesseract
